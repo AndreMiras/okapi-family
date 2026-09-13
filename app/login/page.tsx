@@ -64,7 +64,7 @@ export default function LoginPage() {
           </ul>
 
           <a
-            href="https://github.com/AndreMiras/okapi"
+            href="https://github.com/AndreMiras/okapi-family"
             target="_blank"
             rel="noreferrer"
             className="mt-6 hidden w-fit border-b border-[#b9dfc7]/50 pb-0.5 text-sm font-medium text-[#b9dfc7] hover:border-[#b9dfc7] sm:block"
